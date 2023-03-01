@@ -10,6 +10,8 @@ int main()
     
     y=exp(x);
     
+    y=y/2;
+    
     printf("otvet %lf", y);
 
     return 0;
