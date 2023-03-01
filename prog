@@ -3,7 +3,8 @@
 
 int main()
 {
-    double y, x;
+    double y;
+    int x;
     
     scanf("%lf", &x);
     
