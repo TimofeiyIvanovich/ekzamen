@@ -1,0 +1,15 @@
+#include <stdio.h>
+#include <math.h>
+
+int main()
+{
+    double y, x;
+    
+    scanf("%lf", &x);
+    
+    y=exp(x);
+    
+    printf("otvet %lf", y);
+
+    return 0;
+}
